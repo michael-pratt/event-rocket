@@ -1,4 +1,4 @@
-# Event Rocket
+# Event Rocket 
 Contributors: barry.hughes, mikejanzen, mikevalstar
 Donate link: http://www.britishlegion.org.uk/get-involved/how-to-give
 Tags: events, shortcodes, The Events Calendar, duplicate, rsvp
